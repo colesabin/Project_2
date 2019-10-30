@@ -13,6 +13,7 @@ Then to run the image:
 ## To run
 Once in the docker image use the binary lexer in bin to scan and parse a text
 file and then print something that might be the AST.
+
 For example using the sample Pt.qk file:
 
 `bin/parser samples/Pt.qk`
