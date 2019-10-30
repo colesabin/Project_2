@@ -1,7 +1,7 @@
-# 
+#
 # Quack parser
 #    (build on this for the rest of the compiler)
-# 
+#
 
 REFLEX_INCLUDE = /usr/local/include/reflex
 REFLEX = reflex --bison-cc --bison-locations --header-file
